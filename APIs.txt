@@ -1,0 +1,10 @@
+FAQ
+	Get All FAQs:
+		Request:	Get
+		API:	http://localhost:4200/Faq/getFAQ
+
+	Upload FAQ:
+		Request:	Post
+		API:	http://localhost:4200/Faq/uploadFAQ
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
